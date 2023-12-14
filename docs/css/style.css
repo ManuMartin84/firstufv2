@@ -179,3 +179,27 @@ table{
     position: relative;
     bottom: -20px;
 }
+.imagen-Marcos{
+    width: 120px; 
+    margin-right:0px;
+    margin-left: 130px;
+    margin-top: 35px;
+    border-radius: 120%;
+    float: left;
+}
+.imagen-Arranz{
+    width: 120px; 
+    margin-right:0px;
+    margin-left: 0px;
+    margin-top: 175px;
+    border-radius: 120%;
+    float: left;
+}
+.imagen-Pintor{
+    width: 120px; 
+    margin-right:0px;
+    margin-left: 00px;
+    margin-top: 345px;
+    border-radius: 120%;
+    float: left;
+}
